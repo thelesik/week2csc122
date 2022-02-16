@@ -1,0 +1,4 @@
+﻿  ConsoleApplication16.cpp
+C:\Users\user\source\repos\ConsoleApplication16\ConsoleApplication16\Header.h(31,26): warning C4101: 'e': unreferenced local variable
+C:\Users\user\source\repos\ConsoleApplication16\ConsoleApplication16\Header.h(61,26): warning C4101: 'e': unreferenced local variable
+  ConsoleApplication16.vcxproj -> C:\Users\user\source\repos\ConsoleApplication16\Debug\ConsoleApplication16.exe
